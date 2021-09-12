@@ -1,2 +1,2 @@
-# WEB-tech---website
+# WEB-tech-website
 LGM task1
